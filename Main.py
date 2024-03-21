@@ -14,7 +14,7 @@ from aiogram.types import ReplyKeyboardRemove
 from aiogram import F
 
 # Токен бота
-token = '6938827673:AAFvyraVP_HG5l6qxU45UX-QdYPitMa4L2g'
+token = ''
 bot = Bot(token, parse_mode=ParseMode.HTML)
 dp = Dispatcher()
 
